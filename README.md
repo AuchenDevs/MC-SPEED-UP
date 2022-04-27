@@ -7,10 +7,12 @@ Features:
   - Enable Full Gamma
   - Disable "Press E to open inventory"
   - Backup your Minecraft config
+  - AutoUpdate checker
 
 
 
 To-do: 
+  - Better GUI✔️
+  - AutoUpdater ✔️
   - Optimise Options_of
-  - Better GUI
   - Something more I can think when programming it
