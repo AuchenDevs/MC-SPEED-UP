@@ -14,5 +14,7 @@ Features:
 To-do: 
   - Better GUI✔️
   - AutoUpdater ✔️
+  - Themes
+  - Change username 
   - Optimise Options_of
   - Something more I can think when programming it
